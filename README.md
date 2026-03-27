@@ -70,9 +70,12 @@ plt.show()
 
 
 ## Output:
+<img width="389" height="411" alt="download" src="https://github.com/user-attachments/assets/ac9a89b6-162b-4370-8489-6a16f2dfb3e1" />
+<img width="389" height="411" alt="download" src="https://github.com/user-attachments/assets/b39e78e6-c95c-48d5-a1a6-3aaeffcaeb6a" />
+
+<img width="389" height="411" alt="download" src="https://github.com/user-attachments/assets/cbb88ea7-4dd7-4737-b071-bea9ffae84bd" />
 
 
-<img width="950" height="315" alt="download" src="https://github.com/user-attachments/assets/89c9724a-4d55-4d40-bf16-d1a58c0b9564" />
 
 
 
